@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "贪吃蛇", "贪吃蛇.pyproj", "{2A55F8EB-08FB-4411-91FD-6B940C872A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A55F8EB-08FB-4411-91FD-6B940C872A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A55F8EB-08FB-4411-91FD-6B940C872A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A75C7E04-186A-4A18-8161-F1EB51E2C55C}
+	EndGlobalSection
+EndGlobal
